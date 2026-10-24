@@ -28,17 +28,17 @@ Git | GitHub Actions | Postman | JUnit | Cursor | Claude Code
 
 ## 🚀 Key Projects
 
-### 🔹 GraphFix — Adaptive Graph-Guided Context Selection | [Repository Link]
+### 🔹 GraphFix — Adaptive Graph-Guided Context Selection | 
 *Research Project developed for the Kaggle Gemma 4 Developer Agent Competition*
 - Engineered an autonomous code-agent context retrieval framework merging semantic similarity vectors with codebase Abstract Syntax Tree (AST) repository graphs.
 - Benchmarked 4 distinct retrieval strategies across 127 unique base commits to maximize LLM reasoning context accuracy.
 - Evaluated performance with reproducible metrics, achieving **0.4141 mean file-level recall coverage**, outperforming baseline embedding searches (0.4073).
 
-### 🔹 Clario – AI Agent Explainer Architecture | [Repository Link]
+### 🔹 Clario – AI Agent Explainer Architecture | 
 - Architected a production-ready AI orchestration platform using the Groq API and Llama 3 models to process high-concurrency requests into low-latency structured tech analysis.
 - Designed custom asynchronous context management architectures to systematically optimize token streaming windows and execution latency.
 
-### 🔹 Transaction-Isolated Backend Infrastructure | [Repository Link]
+### 🔹 Transaction-Isolated Backend Infrastructure | 
 - Built a secure, high-throughput backend solution applying unique service-level constraints to guarantee strict data transactional isolation.
 - Normalized data tracking metrics and optimized native JPQL aggregation layers, driving a **90% reduction in database computation runtime**.
 
