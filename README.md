@@ -1,93 +1,47 @@
-<h1 align="center">Hi 👋, I'm Souu</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | AI Enthusiast</h3>
+# Hi 👋, I'm Soubhagya Devpur
 
----
+### AI Systems & Software Automation Engineer | Open to Internships
 
-## 🧑‍💻 About Me
-- 🎓 Information Science & Engineering Student  
-- 💻 Skilled in **MERN Stack, Java, Python**  
-- 🚀 Building real-world projects with **AI + Web Tech**  
-- 📈 Interested in **Full-Stack, UI/UX, and Product Development**  
-- 🌱 Currently improving **DSA & System Design**
+## 🤖 About Me
+- 🎓 Information Science & Engineering Student at SDM Institute of Technology
+- 💻 Specialized in **Python, Java, Graph ML, and Autonomous AI Agents**
+- 🚀 Focus: Engineering intelligent systems that eliminate software workflow bottlenecks and automate code-context selection.
+- 🌱 Currently deep-diving into: LLM evaluation frameworks, agentic memory runtime architectures, and repository graph modeling.
 
----
+## 🔬 Core Focus & Research Areas
+- **Autonomous Coding Agents:** Building graph-guided retrieval loops that optimize LLM reasoning footprints inside complex, multi-file software repositories.
+- **System Concurrency & Performance:** Architecting transaction-isolated software architectures, optimizing relational database query latency, and validating backend reliability under high stress.
+
+## 💻 Tech Stack & Tooling
+
+### 🚀 Languages & Runtimes
+Python | Java | JavaScript | C | SQL
+
+### ⚙️ AI Engineering & Context Retrieval
+Semantic Vector Search | Graph-Based Retrieval (NetworkX) | LLM RAG Pipelines | Prompt & Tool Design
+
+### 🗄️ Backend, Databases & Infrastructure
+Node.js | Spring Boot | MySQL | MongoDB | Google Cloud Platform (GCP) | AWS
+
+### 🛠️ Developer Ecosystem & AI Tooling
+Git | GitHub Actions | Postman | JUnit | Cursor | Claude Code
+
+## 🚀 Key Projects
+
+### 🔹 GraphFix — Adaptive Graph-Guided Context Selection | [Repository Link]
+*Research Project developed for the Kaggle Gemma 4 Developer Agent Competition*
+- Engineered an autonomous code-agent context retrieval framework merging semantic similarity vectors with codebase Abstract Syntax Tree (AST) repository graphs.
+- Benchmarked 4 distinct retrieval strategies across 127 unique base commits to maximize LLM reasoning context accuracy.
+- Evaluated performance with reproducible metrics, achieving **0.4141 mean file-level recall coverage**, outperforming baseline embedding searches (0.4073).
+
+### 🔹 Clario – AI Agent Explainer Architecture | [Repository Link]
+- Architected a production-ready AI orchestration platform using the Groq API and Llama 3 models to process high-concurrency requests into low-latency structured tech analysis.
+- Designed custom asynchronous context management architectures to systematically optimize token streaming windows and execution latency.
+
+### 🔹 Transaction-Isolated Backend Infrastructure | [Repository Link]
+- Built a secure, high-throughput backend solution applying unique service-level constraints to guarantee strict data transactional isolation.
+- Normalized data tracking metrics and optimized native JPQL aggregation layers, driving a **90% reduction in database computation runtime**.
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/soubhagya-k-devpur-44460a370/
-- 📧 Email: soubhagyadevpur.k@gmail.com 
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-pink?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 AI Job Match & Resume Analyzer
-- Smart platform that matches users with suitable jobs  
-- Resume analysis using AI  
-- Tech: MERN + ML  
-
-### 🔹 BeautyPrice AI
-- Predicts makeup prices across platforms  
-- Suggests best buying option  
-- Tech: MERN + ML  
-
-### 🔹 Secure Digital Wallet
-- Blockchain-based transaction system  
-- Focus on security & decentralization  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soubhagya-Devpur&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soubhagya-Devpur&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubhagya-Devpur&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Current Focus
-- 🔥 Building scalable full-stack apps  
-- 🤖 Integrating AI into web applications  
-- 📚 Practicing Data Structures & Algorithms  
-
----
-
-## ⚡ Fun Fact
-> I build projects that actually solve real-world problems 🚀
+- 💼 LinkedIn: https://linkedin.com
+- 📧 Email: soubhagyadevpur.k@gmail.com
