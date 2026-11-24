@@ -1,47 +1,39 @@
-# Hi 👋, I'm Soubhagya Devpur
+# Hi, I'm Soubhagya Devpur 👋
 
-### AI Systems & Software Automation Engineer | Open to Internships
+**Software Engineer | B.E. in Information Science (2026) | Open to Software Engineering Roles**
 
-## 🤖 About Me
-- 🎓 Information Science & Engineering Student at SDM Institute of Technology
-- 💻 Specialized in **Python, Java, Graph ML, and Autonomous AI Agents**
-- 🚀 Focus: Engineering intelligent systems that eliminate software workflow bottlenecks and automate code-context selection.
-- 🌱 Currently deep-diving into: LLM evaluation frameworks, agentic memory runtime architectures, and repository graph modeling.
+I build scalable backend services, AI retrieval tools, and full-stack web applications using **Python, Java, JavaScript, and SQL**. I focus on writing clean, reliable code—from designing RESTful APIs and normalized databases to benchmarking code-context retrieval for LLM agents.
 
-## 🔬 Core Focus & Research Areas
-- **Autonomous Coding Agents:** Building graph-guided retrieval loops that optimize LLM reasoning footprints inside complex, multi-file software repositories.
-- **System Concurrency & Performance:** Architecting transaction-isolated software architectures, optimizing relational database query latency, and validating backend reliability under high stress.
+---
 
-## 💻 Tech Stack & Tooling
+### 🛠 Tech Stack
 
-### 🚀 Languages & Runtimes
-Python | Java | JavaScript | C | SQL
+* **Languages:** Python, Java, JavaScript, SQL
+* **Backend & Databases:** Spring Boot, Node.js, Express, MySQL, MongoDB
+* **Frontend:** React.js, Tailwind CSS
+* **AI & Retrieval:** LLM Integration (Llama 3 / Groq), Semantic Search, Graph-Based Retrieval
+* **Tools & Cloud:** Git, GitHub Actions, AWS, GCP, Postman, JUnit, Linux
 
-### ⚙️ AI Engineering & Context Retrieval
-Semantic Vector Search | Graph-Based Retrieval (NetworkX) | LLM RAG Pipelines | Prompt & Tool Design
+---
 
-### 🗄️ Backend, Databases & Infrastructure
-Node.js | Spring Boot | MySQL | MongoDB | Google Cloud Platform (GCP) | AWS
+### 📌 Featured Projects
 
-### 🛠️ Developer Ecosystem & AI Tooling
-Git | GitHub Actions | Postman | JUnit | Cursor | Claude Code
+#### 1. GraphFix — Adaptive Graph-Guided Context Selection
+*Research Project | Kaggle Gemma 4 Developer Agent Competition*
+* Built a Python retrieval pipeline combining semantic similarity with repository dependency graphs to locate relevant source files for coding agents.
+* Benchmarked four retrieval strategies across **127 unique base commits**, achieving **0.4141 mean file-level coverage** and outperforming standalone embedding retrieval (0.4073) and fixed graph expansion (0.4071).
 
-## 🚀 Key Projects
+#### 2. Clario — AI Explainer
+* Developed a full-stack AI explainer platform using the **Groq API (Llama 3)**, **React**, and **Node.js/Express** to process user queries into structured, real-time explanations.
 
-### 🔹 GraphFix — Adaptive Graph-Guided Context Selection | 
-*Research Project developed for the Kaggle Gemma 4 Developer Agent Competition*
-- Engineered an autonomous code-agent context retrieval framework merging semantic similarity vectors with codebase Abstract Syntax Tree (AST) repository graphs.
-- Benchmarked 4 distinct retrieval strategies across 127 unique base commits to maximize LLM reasoning context accuracy.
-- Evaluated performance with reproducible metrics, achieving **0.4141 mean file-level recall coverage**, outperforming baseline embedding searches (0.4073).
+#### 3. Secure Digital Currency Wallet
+* Built a full-stack digital wallet with **React, Node.js, Express, and MongoDB**, implementing **JWT authentication**, **OTP verification**, and transaction validation to prevent unauthorized or duplicate transfers.
 
-### 🔹 Clario – AI Agent Explainer Architecture | 
-- Architected a production-ready AI orchestration platform using the Groq API and Llama 3 models to process high-concurrency requests into low-latency structured tech analysis.
-- Designed custom asynchronous context management architectures to systematically optimize token streaming windows and execution latency.
+#### 4. Online Voting System
+* Engineered a role-based voting platform using **Java, Spring Boot, Spring Security, MySQL, and React**, enforcing one-vote-per-user database constraints and reducing result tabulation time by **90%**.
 
-### 🔹 Transaction-Isolated Backend Infrastructure | 
-- Built a secure, high-throughput backend solution applying unique service-level constraints to guarantee strict data transactional isolation.
-- Normalized data tracking metrics and optimized native JPQL aggregation layers, driving a **90% reduction in database computation runtime**.
+---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com
+- 💼 LinkedIn: https://linkedin.com](https://www.linkedin.com/in/soubhagya-devpur/
 - 📧 Email: soubhagyadevpur.k@gmail.com
