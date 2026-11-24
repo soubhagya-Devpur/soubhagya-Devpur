@@ -35,5 +35,5 @@ I build scalable backend services, AI retrieval tools, and full-stack web applic
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com](https://www.linkedin.com/in/soubhagya-devpur/
+- 💼 LinkedIn: https://www.linkedin.com/in/soubhagya-devpur/
 - 📧 Email: soubhagyadevpur.k@gmail.com
